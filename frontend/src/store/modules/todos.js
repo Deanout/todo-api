@@ -1,5 +1,5 @@
 import axios from 'axios';
-const api_url = "http://localhost:3000/api/v1/todos";
+const api_url = "https://todo-api-mpod4.ondigitalocean.app/api/v1/todos";
 
 const state = {
     todos: []
